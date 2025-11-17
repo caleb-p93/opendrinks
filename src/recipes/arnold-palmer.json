@@ -1,0 +1,30 @@
+{
+    "name": "arnold palmer",
+    "description": "drink popularized by golfer arnold palmer. consists of 1 part lemonade and 1 part black tea. simple and delicious",
+    "github": "caleb-p93",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "lemonade (any kind)"
+        },
+        {
+            "quantity": "1",
+            "measure": "cup",
+            "ingredient": "black tea"
+        },
+    ],
+    "directions": [
+        "pour lemonade into glass",
+        "pour black tea into glaass",
+        "stir",
+        "adjust sweetness accordingly"
+    ],
+    "image": "arnold-palmer.jpeg",
+    "source": "https://tse4.mm.bing.net/th/id/OIP.xK6LarwpcMBbJBrhRcJh8QHaLG?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "keywords": [
+        "lemonade",
+        "black tea",
+        "simple"
+    ]
+}
